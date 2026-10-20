@@ -1,0 +1,6 @@
+{
+  "name": "Taroda — Email Authentication & Domain Protection",
+  "description": "Premium B2B email authentication, SPF, DKIM, DMARC configuration, and domain protection services for growing businesses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
